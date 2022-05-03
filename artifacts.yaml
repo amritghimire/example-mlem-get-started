@@ -8,7 +8,7 @@ external-ml-model:
 ml-model:
   description: Some model! Random forest is a tree-based ML model. It averages many
     trees to get right prediction - always better than a prediction from a single
-    tree.
+    tree..
   labels:
   - ml
   - rf
